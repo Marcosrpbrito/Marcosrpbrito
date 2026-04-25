@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcosrpbrito-012623?style=flat-square&logo=linkedin&logoColor=C8973A)](https://linkedin.com/in/marcosrpbrito)
 [![Email](https://img.shields.io/badge/Email-marcosbrito_vendas-012623?style=flat-square&logo=microsoftoutlook&logoColor=C8973A)](mailto:brito063.mb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BritoM063-012623?style=flat-square&logo=github&logoColor=C8973A)](https://github.com/BritoM063)
-[![Views](https://komarev.com/ghpvc/?username=BritoM063&label=profile+views&color=C8973A&style=flat-square)](https://github.com/BritoM063)
+[![GitHub](https://img.shields.io/badge/GitHub-BritoM063-012623?style=flat-square&logo=github&logoColor=C8973A)](https://github.com/Marcosrpbrito)
+[![Views](https://komarev.com/ghpvc/?username=BritoM063&label=profile+views&color=C8973A&style=flat-square)](https://github.com/Marcosrpbrito)
 
 </div>
 
