@@ -1,88 +1,129 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=012623,014034,C8973A&height=180&section=header&text=Marcos%20Brito&fontSize=56&fontColor=F2E1AC&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20360%C2%B0%20Business%20Consultant&descColor=C8973A&descSize=16&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=012623,014034,1a5c4a,C8973A&height=200&section=header&text=Marcos%20Brito&fontSize=60&fontColor=F2E1AC&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20360%C2%B0%20Business%20Consultant&descColor=C8973A&descSize=17&descAlignY=58&animation=twinkling"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=C8973A&center=true&vCenter=true&width=700&lines=ALI+Consultant+%40+Sebrae+%7C+Araraquara%2C+SP;Founder+%7C+Metodo+CRESCER;Data+Science+%40+UFMS+%7C+Conclusao+Dez+2026;Sem+complicacao.+Com+resultado.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=C8973A&center=true&vCenter=true&multiline=false&width=680&lines=ALI+Consultant+%40+Sebrae+%7C+Araraquara%2C+SP+%F0%9F%87%A7%F0%9F%87%B7;Founder+%7C+Metodo+CRESCER+-+360+Diagnostico+para+PMEs;Data+Science+%40+UFMS+%7C+Conclusao+Dez%2F2026;Sem+complicacao.+Com+resultado.)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcosrpbrito-012623?style=flat-square&logo=linkedin&logoColor=C8973A)](https://linkedin.com/in/marcosrpbrito)
-[![Email](https://img.shields.io/badge/Email-marcosbrito_vendas-012623?style=flat-square&logo=microsoftoutlook&logoColor=C8973A)](mailto:marcosbrito_vendas@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Marcosrpbrito-012623?style=flat-square&logo=github&logoColor=C8973A)](https://github.com/Marcosrpbrito)
-[![Views](https://komarev.com/ghpvc/?username=Marcosrpbrito&label=profile+views&color=C8973A&style=flat-square)](https://github.com/Marcosrpbrito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcosrpbrito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosrpbrito)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marcosbrito_vendas@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(16)%2099733--9531-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516997339531)
+[![Views](https://komarev.com/ghpvc/?username=Marcosrpbrito&label=Visitas+ao+perfil&color=C8973A&style=for-the-badge)](https://github.com/Marcosrpbrito)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## `$ whoami`
 
 ```python
 class MarcosBrito:
+
     roles    = ["Data Scientist", "Project Manager", "360 Business Consultant"]
     location = "Araraquara, SP — Brazil"
-    now      = "ALI Consultant @ Sebrae + Founder @ Consultoria Marcos Brito"
+    company  = "Sebrae (ALI Consultant) + Consultoria Marcos Brito (Founder)"
     method   = "CRESCER — Diagnostico 360 para PMEs"
-    study    = "Data Science @ UFMS (conclusao: Dez/2026)"
-    certs    = ["PMI · Project Management", "Python for Data Science",
-                "Agile/Scrum", "Strategic Planning", "ANCORD (em curso)"]
-    focus    = ["Radar CRESCER v2 · 150 questoes · 10 areas · 5 niveis",
-                "Metodo CRESCER · contratos semestrais · 3 ciclos de 7 semanas",
-                "Marca pessoal · conteudo YouTube & LinkedIn"]
+    study    = "Data Science @ UFMS  |  conclusao: Dez/2026"
+    certs    = ["PMI · Project Management (pos-grad)",
+                "Python for Data Science",
+                "Agile/Scrum",
+                "Planejamento Estrategico",
+                "ANCORD (em andamento)"]
+    now      = ["Radar CRESCER v2 · 150 questoes · 10 areas · 5 niveis",
+                "Metodo CRESCER · contratos semestrais · 3 ciclos x 7 semanas",
+                "Marca pessoal · canal YouTube & LinkedIn em construcao"]
     creed    = "Sem complicacao. Com resultado."
+    english  = "Professional working proficiency"
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## Resultados que importam
+
+<div align="center">
+
+![](https://img.shields.io/badge/15%2B_anos_de_carreira-012623?style=for-the-badge&labelColor=014034&color=012623)
+![](https://img.shields.io/badge/Varejo_%E2%86%92_Fintech_%E2%86%92_Consultoria_%E2%86%92_Data-C8973A?style=for-the-badge&labelColor=014034&color=012623)
+![](https://img.shields.io/badge/PMEs_assessoradas_via_Sebrae-012623?style=for-the-badge&labelColor=014034&color=012623)
+![](https://img.shields.io/badge/Radar_CRESCER_v2_%C2%B7_150_questoes_validadas-012623?style=for-the-badge&labelColor=014034&color=012623)
+
+</div>
 
 ---
 
 ## Tech Stack
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-012623?style=flat-square&logo=python&logoColor=C8973A)
-![R](https://img.shields.io/badge/R-012623?style=flat-square&logo=r&logoColor=C8973A)
-![SQL](https://img.shields.io/badge/SQL-012623?style=flat-square&logo=postgresql&logoColor=C8973A)
-![Bash](https://img.shields.io/badge/Bash-012623?style=flat-square&logo=gnubash&logoColor=C8973A)
-![Julia](https://img.shields.io/badge/Julia-012623?style=flat-square&logo=julia&logoColor=C8973A)
+### 🐍 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-012623?style=flat-square&logo=scikitlearn&logoColor=C8973A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-012623?style=flat-square&logo=tensorflow&logoColor=C8973A)
-![PyTorch](https://img.shields.io/badge/PyTorch-012623?style=flat-square&logo=pytorch&logoColor=C8973A)
-![Keras](https://img.shields.io/badge/Keras-012623?style=flat-square&logo=keras&logoColor=C8973A)
-![XGBoost](https://img.shields.io/badge/XGBoost-012623?style=flat-square&logo=xgboost&logoColor=C8973A)
-![OpenCV](https://img.shields.io/badge/OpenCV-012623?style=flat-square&logo=opencv&logoColor=C8973A)
+### 🤖 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-012623?style=flat-square&logo=pandas&logoColor=C8973A)
-![NumPy](https://img.shields.io/badge/NumPy-012623?style=flat-square&logo=numpy&logoColor=C8973A)
-![Plotly](https://img.shields.io/badge/Plotly-012623?style=flat-square&logo=plotly&logoColor=C8973A)
-![Power BI](https://img.shields.io/badge/Power%20BI-012623?style=flat-square&logo=powerbi&logoColor=C8973A)
-![Tableau](https://img.shields.io/badge/Tableau-012623?style=flat-square&logo=tableau&logoColor=C8973A)
-![Streamlit](https://img.shields.io/badge/Streamlit-012623?style=flat-square&logo=streamlit&logoColor=C8973A)
+### 📊 Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Data Engineering & Cloud
-![Apache Spark](https://img.shields.io/badge/Spark-012623?style=flat-square&logo=apachespark&logoColor=C8973A)
-![Airflow](https://img.shields.io/badge/Airflow-012623?style=flat-square&logo=apacheairflow&logoColor=C8973A)
-![dbt](https://img.shields.io/badge/dbt-012623?style=flat-square&logo=dbt&logoColor=C8973A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-012623?style=flat-square&logo=postgresql&logoColor=C8973A)
-![MongoDB](https://img.shields.io/badge/MongoDB-012623?style=flat-square&logo=mongodb&logoColor=C8973A)
-![AWS](https://img.shields.io/badge/AWS-012623?style=flat-square&logo=amazonaws&logoColor=C8973A)
-![GCP](https://img.shields.io/badge/GCP-012623?style=flat-square&logo=googlecloud&logoColor=C8973A)
-![Azure](https://img.shields.io/badge/Azure-012623?style=flat-square&logo=microsoftazure&logoColor=C8973A)
+### 🗄️ Data Engineering & Cloud
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### MLOps & Dev
-![Docker](https://img.shields.io/badge/Docker-012623?style=flat-square&logo=docker&logoColor=C8973A)
-![Git](https://img.shields.io/badge/Git-012623?style=flat-square&logo=git&logoColor=C8973A)
-![MLflow](https://img.shields.io/badge/MLflow-012623?style=flat-square&logo=mlflow&logoColor=C8973A)
-![FastAPI](https://img.shields.io/badge/FastAPI-012623?style=flat-square&logo=fastapi&logoColor=C8973A)
-![Jupyter](https://img.shields.io/badge/Jupyter-012623?style=flat-square&logo=jupyter&logoColor=C8973A)
-![VS Code](https://img.shields.io/badge/VSCode-012623?style=flat-square&logo=visualstudiocode&logoColor=C8973A)
+### ⚙️ MLOps & Dev
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Project Management
-![PMI](https://img.shields.io/badge/PMI%20Certified-012623?style=flat-square&logo=pmi&logoColor=C8973A)
-![Agile](https://img.shields.io/badge/Agile%20%7C%20Scrum-012623?style=flat-square&logo=agile&logoColor=C8973A)
-![Jira](https://img.shields.io/badge/Jira-012623?style=flat-square&logo=jira&logoColor=C8973A)
-![Notion](https://img.shields.io/badge/Notion-012623?style=flat-square&logo=notion&logoColor=C8973A)
-![Trello](https://img.shields.io/badge/Trello-012623?style=flat-square&logo=trello&logoColor=C8973A)
+### 📋 Project Management
+![PMI](https://img.shields.io/badge/PMI%20Certified-003087?style=for-the-badge&logo=pmi&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%7C%20Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![OKR](https://img.shields.io/badge/OKR%20Framework-4CAF50?style=for-the-badge&logo=target&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## Proficiência por domínio
+
+```
+Data Science & ML      ████████████████████░░  90%
+Business Intelligence  ███████████████████░░░  85%
+Project Management     ████████████████████░░  90%
+Business Consulting    █████████████████████░  95%
+Data Engineering       ████████████░░░░░░░░░░  60%
+Cloud & MLOps          ██████████░░░░░░░░░░░░  50%
+Financial Analysis     ████████████████░░░░░░  75%
+Commercial Strategy    █████████████████████░  95%
+```
 
 ---
 
@@ -90,79 +131,98 @@ class MarcosBrito:
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Marcosrpbrito&show_icons=true&bg_color=012623&title_color=C8973A&text_color=F2E1AC&icon_color=C8973A&border_color=014034&count_private=true&hide_border=false&rank_icon=github"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosrpbrito&layout=compact&bg_color=012623&title_color=C8973A&text_color=F2E1AC&border_color=014034&langs_count=6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Marcosrpbrito&show_icons=true&theme=dark&bg_color=012623&title_color=C8973A&text_color=F2E1AC&icon_color=C8973A&border_color=014034&count_private=true&hide_border=false&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosrpbrito&layout=compact&theme=dark&bg_color=012623&title_color=C8973A&text_color=F2E1AC&border_color=014034&langs_count=6"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Marcosrpbrito&background=012623&ring=C8973A&fire=D9946C&currStreakLabel=F2E1AC&sideLabels=F2E1AC&currStreakNum=C8973A&sideNums=F2E1AC&dates=F2E1AC&border=014034"/>
+<img src="https://streak-stats.demolab.com?user=Marcosrpbrito&theme=dark&background=012623&ring=C8973A&fire=D9946C&currStreakLabel=F2E1AC&sideLabels=F2E1AC&currStreakNum=C8973A&sideNums=F2E1AC&dates=F2E1AC&border=014034"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## Projetos em Destaque
+
+<div align="center">
 
 | Projeto | Stack | Descricao |
-|---|---|---|
-| **Radar CRESCER v2** | `HTML` `JS` `Python` | Diagnostico 360 · 150 questoes · 10 areas · 5 niveis de maturidade |
-| **Metodo CRESCER** | `Consulting` `Agile` | Framework semestral · 3 ciclos x 7 semanas · baseado no ALI/Sebrae |
-| **DS Portfolio** | `Python` `Sklearn` `Power BI` | Projetos de ML, EDA e analytics orientados a negocios |
-| **PM Toolkit** | `Notion` `Excel` `Agile` | Templates, OKRs, matrizes de risco e artefatos Agile |
+|:---|:---|:---|
+| **Radar CRESCER v2** | `HTML` `JS` `Python` | Diagnostico 360 · 150 questoes · 10 areas · 5 niveis de maturidade empresarial |
+| **Metodo CRESCER** | `Consulting` `Agile` `PM` | Framework semestral · 3 ciclos x 7 semanas · baseado no modelo ALI/Sebrae |
+| **DS Portfolio** | `Python` `Sklearn` `Power BI` | Projetos aplicados de ML, EDA e analytics orientados a resultado de negocio |
+| **PM Toolkit** | `Notion` `Excel` `Agile` | Templates, OKRs, matrizes de risco e artefatos Agile de projetos reais |
+
+</div>
 
 ---
 
-## Expertise
+## Areas de Expertise
+
+<div align="center">
 
 | Area | Competencias |
-|---|---|
-| **Data Science** | EDA · ML · Deep Learning · NLP · Time Series · Estatistica |
-| **Business Intelligence** | Power BI · KPI Design · Dashboard · Decision Support |
-| **Data Engineering** | ETL · SQL · Spark · Airflow · Data Modeling |
-| **MLOps** | Deploy · MLflow · Docker · FastAPI · Monitoramento |
-| **Project Management** | PMI · Agile/Scrum · Risk · OKR · Stakeholder Management |
-| **Business Consulting** | Diagnostico 360 · Planejamento Estrategico · Gestao de Mudancas |
-| **Financial Analysis** | DRE · Fluxo de Caixa · Valuation · Analise de Investimentos |
-| **Commercial Management** | Estrategia Comercial · Lideranca · Revenue Growth · CRM |
+|:---|:---|
+| **Data Science** | EDA · ML · Deep Learning · NLP · Time Series · Estatistica Aplicada |
+| **Business Intelligence** | Power BI · KPI Design · Dashboard · Data Storytelling · Decision Support |
+| **Data Engineering** | ETL Pipelines · SQL Avancado · Spark · Airflow · Data Modeling |
+| **MLOps** | Model Deploy · MLflow · Docker · FastAPI · Monitoramento de Modelos |
+| **Project Management** | PMI · Agile/Scrum · Risk Management · OKR · Stakeholder Alignment |
+| **Business Consulting** | Diagnostico 360 · Planejamento Estrategico · Gestao de Mudancas · BPM |
+| **Financial Analysis** | DRE · Fluxo de Caixa · Valuation · Analise de Viabilidade · FP&A |
+| **Commercial Management** | Estrategia de Vendas · Lideranca de Times · Revenue Growth · CRM |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## Jornada Profissional
+## Jornada — 15+ anos
 
 ```
-2026  ● ALI Consultant @ Sebrae | Founder @ Consultoria Marcos Brito
-        Data Science @ UFMS (em curso) | ANCORD (em curso)
+                    VAREJO         FINTECH        CONSULTORIA         DADOS
+                      |               |                |                |
+2018-2019   Raia Drogasil        ─────────────────────────────────────────
+            Beleza.com
+            P&L | Lideranca
+            Ops Optimization
 
-2024  ● Cert: Agile PM | Python for Data Science | Planejamento Estrategico
-2025    Cert: Rapport & Negociacao | Pos: PMI Project Management
+2020-2021   ─────────────  Stone (Fintech)  ───────────────────────────────
+                           KPIs | Sales Strat
+                           Revenue Growth
 
-2022  ● Consultor de Negocios @ Start Business & Imperio do Jeans
-2023    Gestao Comercial | Crescimento de Receita | Otimizacao de Processos
+2022-2023   ─────────────────────────  Start Business  ────────────────────
+                                       Imperio do Jeans
+                                       Consultoria | Gestao
 
-2020  ● Gerente Comercial @ Stone (Fintech)
-2021    Estrategia de Vendas | KPIs | Gestao de Performance
+2024-2025   ──────────────────────────────────  Certs: PMI | Agile | Python
+                                                Planejamento | Rapport
 
-2018  ● Gestao Varejo @ Raia Drogasil & Beleza.com
-2019    P&L | Lideranca de Equipes | Otimizacao Operacional
-
-      ────────────────────────────────────────────────────────
-           15+ ANOS  |  VAREJO  >  FINTECH  >  CONSULTORIA  >  DADOS
+2026+       ──────────────────────────────────────────  Sebrae ALI | CRESCER
+                                                        Data Science @ UFMS
 ```
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-012623?style=for-the-badge&logo=linkedin&logoColor=C8973A)](https://linkedin.com/in/marcosrpbrito)
-[![Email](https://img.shields.io/badge/Enviar_Email-012623?style=for-the-badge&logo=microsoftoutlook&logoColor=C8973A)](mailto:marcosbrito_vendas@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-012623?style=for-the-badge&logo=whatsapp&logoColor=C8973A)](https://wa.me/5516997339531)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosrpbrito)
+[![Email](https://img.shields.io/badge/Email-Envie%20mensagem-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marcosbrito_vendas@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516997339531)
 
 <br/>
 
-*"Sem complicacao. Com resultado."* &nbsp;—&nbsp; **Marcos Brito · Metodo CRESCER**
+> *"Sem complicacao. Com resultado."*
+> 
+> **Marcos Brito — Metodo CRESCER**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8973A,014034,012623&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8973A,1a5c4a,014034,012623&height=120&section=footer&animation=twinkling"/>
 
 </div>
