@@ -1,179 +1,74 @@
-# 👩🏻‍💻 Larissa Kich
+<h1 align="center">Olá, eu sou Marcos Roberto de Paiva Brito 👋</h1>
 
-**`Desenvolvedora FullStack`**
-
-Eu me chamo Marcos Roberto de Paiva Brito e sou do interior de São Paulo.
-Atualmente, estou me especializando em Ciência de Dados pela UFMS, com foco em análise, manipulação e interpretação de dados para geração de insights e apoio à tomada de decisão.
-Possuo experiência na área comercial, atuando com gestão, vendas e relacionamento com clientes, o que me permite conectar dados à realidade do negócio.
-Tenho interesse em tecnologia, programação e soluções orientadas a dados, e utilizo este espaço para compartilhar projetos e aplicações práticas em Ciência de Dados.
-
-<p align="left">
-    <a href="https://www.youtube.com/@brito_consultor">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@brito_consultor">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+Transformando dados em decisões estratégicas
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Eu me chamo Marcos Roberto de Paiva Brito e sou do interior de São Paulo.
 
-<br/>
-<br/>
+Atualmente, estou me especializando em Ciência de Dados pela UFMS, com foco em análise, manipulação e interpretação de dados para geração de insights e apoio à tomada de decisão.
 
-### 📊 Estatísticas
+Possuo experiência na área empresarial, atuando com gestão, vendas e relacionamento com clientes, o que me permite conectar dados à realidade do negócio.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Tenho interesse em tecnologia, programação e soluções orientadas a dados, e utilizo este espaço para compartilhar projetos e aplicações práticas em Ciência de Dados.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
+## 🚀 Projetos em destaque
+
+### 📊 Análise de Vendas
+- Exploração de dados comerciais
+- Identificação de padrões e sazonalidade
+- Geração de insights estratégicos
+
+### 💰 Análise de Funil de Vendas
+- Conversão de leads
+- Identificação de gargalos
+- Otimização de performance comercial
+
+### 📈 Dashboard de Indicadores
+- KPIs de negócio
+- Visualização de dados
+- Apoio à tomada de decisão
+
+👉 (Em breve mais projetos com foco em dados aplicados a negócios)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python (Pandas entre outras, análise de dados)
+- Java (POO)
+- Excel Avançado
+- Power BI
+- SQL 
+- Git e GitHub
+
+---
+
+## 🎯 Objetivo
+
+Aplicar Ciência de Dados para resolver problemas reais de negócio, principalmente nas áreas financeiras, marketing, comercial, gestão e estratégia, gerando mais eficiência, previsibilidade e crescimento.
+
+---
+
+## 📫 Conecte-se comigo
+
+- LinkedIn: https://www.linkedin.com/in/marcosrpbrito/
+- Email: brito063.mb@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact" />
 </p>
