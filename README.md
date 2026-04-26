@@ -26,15 +26,14 @@ class MarcosBrito:
     location = "Araraquara, SP — Brazil"
     company  = "Sebrae (ALI Consultant) + Consultoria Marcos Brito (Founder)"
     method   = "CRESCER — Diagnostico 360 para PMEs"
-    study    = "Data Science @ UFMS  |  conclusao: Dez/2026"
+    study    = "Data Science @ UFMS"
     certs    = ["PMI · Project Management (pos-grad)",
                 "Python for Data Science",
                 "Agile/Scrum",
                 "Planejamento Estrategico",
                 "ANCORD (em andamento)"]
-    now      = ["Radar CRESCER v2 · 150 questoes · 10 areas · 5 niveis",
-                "Metodo CRESCER · contratos semestrais · 3 ciclos x 7 semanas",
-                "Marca pessoal · canal YouTube & LinkedIn em construcao"]
+    now      = ["Metodo CRESCER · contratos semestrais · 3 ciclos x 7 semanas",
+                "Marca pessoal · canal YouTube & LinkedIn"]
     creed    = "Sem complicacao. Com resultado."
     english  = "Professional working proficiency"
 ```
