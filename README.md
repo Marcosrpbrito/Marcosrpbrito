@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=C8973A&center=true&vCenter=true&multiline=false&width=680&lines=ALI+Consultant+%40+Sebrae+%7C+Araraquara%2C+SP+%F0%9F%87%A7%F0%9F%87%B7;Founder+%7C+Metodo+CRESCER+-+360+Diagnostico+para+PMEs;Data+Science+%40+UFMS+%7C+Conclusao+Dez%2F2026;Sem+complicacao.+Com+resultado.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=C8973A&center=true&vCenter=true&width=680&lines=ALI+Consultant+%40+Sebrae+%7C+Araraquara%2C+SP;Founder+%7C+Metodo+CRESCER+-+360+Diagnostico+para+PMEs;Data+Science+%40+UFMS+%7C+Conclusao+Dez%2F2026;Sem+complicacao.+Com+resultado.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,14 +26,15 @@ class MarcosBrito:
     location = "Araraquara, SP — Brazil"
     company  = "Sebrae (ALI Consultant) + Consultoria Marcos Brito (Founder)"
     method   = "CRESCER — Diagnostico 360 para PMEs"
-    study    = "Data Science @ UFMS"
+    study    = "Data Science @ UFMS  |  conclusao: Dez/2026"
     certs    = ["PMI · Project Management (pos-grad)",
                 "Python for Data Science",
                 "Agile/Scrum",
                 "Planejamento Estrategico",
                 "ANCORD (em andamento)"]
-    now      = ["Metodo CRESCER · contratos semestrais · 3 ciclos x 7 semanas",
-                "Marca pessoal · canal YouTube & LinkedIn"]
+    now      = ["Radar CRESCER v2 · 150 questoes · 10 areas · 5 niveis",
+                "Metodo CRESCER · contratos semestrais · 3 ciclos x 7 semanas",
+                "Marca pessoal · canal YouTube & LinkedIn em construcao"]
     creed    = "Sem complicacao. Com resultado."
     english  = "Professional working proficiency"
 ```
@@ -46,10 +47,12 @@ class MarcosBrito:
 
 <div align="center">
 
-![](https://img.shields.io/badge/15%2B_anos_de_carreira-012623?style=for-the-badge&labelColor=014034&color=012623)
-![](https://img.shields.io/badge/Varejo_%E2%86%92_Fintech_%E2%86%92_Consultoria_%E2%86%92_Data-C8973A?style=for-the-badge&labelColor=014034&color=012623)
-![](https://img.shields.io/badge/PMEs_assessoradas_via_Sebrae-012623?style=for-the-badge&labelColor=014034&color=012623)
-![](https://img.shields.io/badge/Radar_CRESCER_v2_%C2%B7_150_questoes_validadas-012623?style=for-the-badge&labelColor=014034&color=012623)
+![](https://img.shields.io/badge/15%2B_anos_de_carreira-F2E1AC?style=for-the-badge&labelColor=012623&color=012623)
+![](https://img.shields.io/badge/Varejo_%E2%86%92_Fintech_%E2%86%92_Consultoria_%E2%86%92_Data-F2E1AC?style=for-the-badge&labelColor=014034&color=014034)
+![](https://img.shields.io/badge/PMEs_assessoradas_via_Sebrae-F2E1AC?style=for-the-badge&labelColor=012623&color=012623)
+![](https://img.shields.io/badge/Radar_CRESCER_v2_%C2%B7_150_questoes_validadas-F2E1AC?style=for-the-badge&labelColor=014034&color=014034)
+![](https://img.shields.io/badge/MAPE_reduzido_de_43%25_para_14%2C6%25_com_ML-C8973A?style=for-the-badge&labelColor=012623&color=012623)
+![](https://img.shields.io/badge/R%24_16%2C9MM_em_dados_analisados-C8973A?style=for-the-badge&labelColor=014034&color=014034)
 
 </div>
 
@@ -57,7 +60,7 @@ class MarcosBrito:
 
 ## Tech Stack
 
-### 🐍 Linguagens
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,7 +68,7 @@ class MarcosBrito:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML%2FJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -73,7 +76,7 @@ class MarcosBrito:
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Analysis & Visualization
+### Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -81,7 +84,7 @@ class MarcosBrito:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Data Engineering & Cloud
+### Data Engineering & Cloud
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
@@ -91,7 +94,7 @@ class MarcosBrito:
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### ⚙️ MLOps & Dev
+### MLOps & Dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -99,7 +102,7 @@ class MarcosBrito:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 📋 Project Management
+### Project Management
 ![PMI](https://img.shields.io/badge/PMI%20Certified-003087?style=for-the-badge&logo=pmi&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%20%7C%20Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -111,7 +114,7 @@ class MarcosBrito:
 
 ---
 
-## Proficiência por domínio
+## Proficiencia por dominio
 
 ```
 Data Science & ML      ████████████████████░░  90%
@@ -143,16 +146,66 @@ Commercial Strategy    ███████████████████
 
 ## Projetos em Destaque
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| Projeto | Stack | Descricao |
-|:---|:---|:---|
-| **Radar CRESCER v2** | `HTML` `JS` `Python` | Diagnostico 360 · 150 questoes · 10 areas · 5 niveis de maturidade empresarial |
-| **Metodo CRESCER** | `Consulting` `Agile` `PM` | Framework semestral · 3 ciclos x 7 semanas · baseado no modelo ALI/Sebrae |
-| **DS Portfolio** | `Python` `Sklearn` `Power BI` | Projetos aplicados de ML, EDA e analytics orientados a resultado de negocio |
-| **PM Toolkit** | `Notion` `Excel` `Agile` | Templates, OKRs, matrizes de risco e artefatos Agile de projetos reais |
+### Pipeline Data Science — Varejo PME (3 projetos integrados)
 
-</div>
+> Dataset real de 12.000 pedidos · R$ 16,9MM analisados · Pipeline ETL → ML → EDA completo
+
+---
+
+**Projeto 1 — Business Intelligence & ETL**
+
+[![BI Portfolio](https://img.shields.io/badge/Ver_Repositorio-analise--performance--comercial--bi-012623?style=for-the-badge&logo=github&logoColor=C8973A)](https://github.com/Marcosrpbrito/analise-performance-comercial-bi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Pipeline ETL completo com modelagem dimensional (fato + dimensoes), auditoria de qualidade de dados, geracao de KPIs executivos e dashboard com 4 paineis. Receita liquida analisada: **R$ 16,9MM** · Margem bruta: **35,7%** · NPS: **8,1/10**
+
+```
+Principais insights:
+  → Sudeste concentra 51% da receita — oportunidade de expansao identificada
+  → Nov/Dez com +40% vs media — planejamento de estoque critico mapeado
+  → Canal E-commerce com NPS superior (8,2 vs 7,6) — ROI digital positivo
+```
+
+---
+
+**Projeto 2 — Machine Learning Preditivo**
+
+[![ML Portfolio](https://img.shields.io/badge/Ver_Repositorio-modelo--preditivo--vendas--ml-012623?style=for-the-badge&logo=github&logoColor=C8973A)](https://github.com/Marcosrpbrito/modelo-preditivo-vendas-ml)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+
+Comparativo de algoritmos de regressao (Ridge · Random Forest · XGBoost) com feature engineering temporal, GridSearchCV e TimeSeriesSplit. **MAPE reduzido de 43,1% para 14,6%** — previsao de receita 3x mais precisa.
+
+```
+Resultado dos modelos:
+  Ridge Regression  →  MAPE 43,1%  |  R² 0,95
+  Random Forest     →  MAPE 14,6%  |  R² 0,95  ← Modelo selecionado
+  XGBoost           →  MAPE 18,7%  |  R² 0,93
+```
+
+---
+
+**Projeto 3 — EDA & Diagnostico de PMEs**
+
+[![EDA Portfolio](https://img.shields.io/badge/Ver_Repositorio-eda--diagnostico--pme-012623?style=for-the-badge&logo=github&logoColor=C8973A)](https://github.com/Marcosrpbrito/eda-diagnostico-pme)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+EDA sistematica orientada a negocio com framework de 4 pilares (Crescimento · Rentabilidade · Eficiencia · Risco), testes estatisticos (Pearson, ANOVA, IQR) e storytelling executivo. Metodologia alinhada ao **Metodo CRESCER** de diagnostico 360 para PMEs.
+
+```
+Testes estatisticos aplicados:
+  → Pearson r = -0,47 (desconto x margem, p < 0,001)
+  → ANOVA confirmou diferenca de NPS entre canais (p < 0,05)
+  → Deteccao de outliers: ~4,2% dos pedidos via IQR
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -217,7 +270,7 @@ Commercial Strategy    ███████████████████
 <br/>
 
 > *"Sem complicacao. Com resultado."*
-> 
+>
 > **Marcos Brito — Metodo CRESCER**
 
 <br/>
